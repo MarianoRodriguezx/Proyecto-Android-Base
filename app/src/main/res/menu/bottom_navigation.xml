@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Home"></item>
+        <!--Agregar la linea de abajo para agregar el icono en el menu-->
+        <!--android:icon=""-->
+
+
+    <item
+        android:id="@+id/otra_opcion"
+        android:enabled="true"
+        android:title="Otro"></item>
+
+</menu>
